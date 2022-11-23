@@ -1,0 +1,12 @@
+print("*****************")
+print("hamburguesas el corral")
+print("*****************")
+
+nombreusuario=input("digite su nombre: ")
+cedulausuario=input("digite su cedula")
+pedidousuario=input("que hamburguesa va a pedir?:")
+valorpedido=int(input("valor del pedido"))
+cantidadpedido=int(input("cuantas hamburguesas va a pedir?:"))
+print(pedidousuario)
+print(cantidadpedido)
+print(valorpedido*cantidadpedido)
